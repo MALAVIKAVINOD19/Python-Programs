@@ -33,30 +33,31 @@ This unit introduces basic Python programming through practical applications.
 
 ### Unit 2 – Programming Logic and Iteration
 
-This unit focuses on number-based programs and logical problem-solving using loops and conditional statements.
+This unit focuses on numerical problem-solving and implementing iterative algorithms using Python.
 
 - **Lab 1:** Prime Number Checker – A program to determine whether a given number is prime.
 - **Lab 2:** Factorial Calculator – A program to calculate the factorial of a given number.
-- **Lab 3:** Fibonacci Series – A program to generate the Fibonacci sequence.
-- **Lab 4:** Number Sequence Program – A number-based programming exercise involving iterative calculations. *(Exact program description to be confirmed.)*
+- **Lab 3:** Fibonacci Series Using Loops – A program that generates a Fibonacci sequence for a specified number of terms using iterative logic.
+- **Lab 4:** Fibonacci Series Generator – A program to generate the Fibonacci sequence.
 
 ### Unit 3 – Practical Python Application
 
 - **Attendance Management System:** A Python program designed to record and manage student attendance.
 
-### Unit 4 – Data Structures, File Handling and Applications
+### Unit 4 – File Handling, CSV and JSON Operations
 
-This unit explores Python data structures, file operations, JSON handling, and practical data management.
+This unit explores file handling and structured data processing through practical Python applications.
 
-- **Lab 1:** List Operations – Programs demonstrating the creation and manipulation of lists.
-- **Lab 2:** Student Data Management Using Files – A program to store, retrieve, and manage student information using file handling.
-- **Lab 3:** JSON File Operations – Programs demonstrating JSON creation and handling of JSON data.
-- **Lab 4: Employee Payroll Management – A program to manage employee payroll information and calculations.
-
+- **Lab 1:** Log File Analyzer – A program that reads a log file, displays its contents, and counts the number of error messages.
+- **Lab 2:** Student Data Manager Using Files – A menu-driven program to add and display student records using file handling.
+- **Lab 3:** Employee Payroll Management Using CSV – A program that accepts employee details, calculates net salaries, and stores payroll records in a CSV file.
+- **Lab 4:** JSON Log Analyzer – A program that reads log records from a JSON file, displays the information, and generates a summary of INFO, WARNING, and ERROR messages.
 ---
 
 ## Repository Structure
 
+
+```text
 Python-Programs/
 │
 ├── README.md
@@ -92,8 +93,8 @@ Python-Programs/
 │       └── logs.json
 │
 ├── Nested loop.py
-│
 └── pyloops.py
+```
 
 ## Technologies Used
 
