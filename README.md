@@ -71,8 +71,8 @@ Python-Programs/
 ├── UNIT 2 - Control Statements and Loops/
 │   ├── Lab 1 - Prime Number Checker.py
 │   ├── Lab 2 - Factorial Calculator.py
-│   ├── Lab 3 - Fibonacci Series.py
-│   └── Lab 4 - Fibonacci Series Using Loops.py
+│   ├── Lab 3 - Fibonacci Series Using Loops.py
+│   └── Lab 4 - Fibonacci Series 
 │
 ├── UNIT 3 - Practical Applications/
 │   └── Lab 1 - Attendance Management System.py
