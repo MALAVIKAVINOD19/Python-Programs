@@ -54,6 +54,15 @@ This unit explores file handling and structured data processing through practica
 - **Lab 4:** JSON Log Analyzer – A program that reads log records from a JSON file, displays the information, and generates a summary of INFO, WARNING, and ERROR messages.
 ---
 
+### Unit 5 – Python Programming Applications
+
+This unit focuses on developing practical applications using object-oriented programming, built-in Python modules, and data visualization techniques.
+
+- **Lab 1: Bank Account Management Using Class** – A program to create a bank account using a class and perform basic operations such as depositing money, withdrawing money, and checking the account balance.
+- **Lab 2: Library Management System** – A simple library system that allows users to display available books, borrow books, and return books.
+- **Lab 3: Dice Simulator Using Random Module** – A program to simulate rolling a dice using Python's built-in random module.
+- **Lab 4: Retail Sales Dashboard Using CSV and Matplotlib** – A program to read retail sales data from a CSV file and visualize the data using line graphs and bar charts.
+
 ## Repository Structure
 
 
@@ -80,7 +89,13 @@ Python-Programs/
 ├── UNIT 4 - File Handling and Data Management/
 │   ├── Lab 1 - Log File Analyzer/
 │   │   ├── log_analyzer.py
-│   │   └── log.txt
+│       └── log.txt
+|
+├── UNIT 5 - File Handling and Data Storage/
+│   ├── Lab 1 - Log File Reader.py
+│   ├── Lab 2 - Student Data Manager Using Files.py
+│   ├── Lab 3 - CSV Based Payroll Management System.py
+│   └── Lab 4 - JSON Based Log File Analyzer.py
 │   │
 │   ├── Lab 2 - Student Data Manager/
 │   │   └── student_data_manager.py
