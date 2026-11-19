@@ -52,7 +52,7 @@ This unit explores file handling and structured data processing through practica
 - **Lab 2:** Student Data Manager Using Files – A menu-driven program to add and display student records using file handling.
 - **Lab 3:** Employee Payroll Management Using CSV – A program that accepts employee details, calculates net salaries, and stores payroll records in a CSV file.
 - **Lab 4:** JSON Log Analyzer – A program that reads log records from a JSON file, displays the information, and generates a summary of INFO, WARNING, and ERROR messages.
----
+
 
 ### Unit 5 – Python Programming Applications
 
