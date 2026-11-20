@@ -40,9 +40,14 @@ This unit focuses on numerical problem-solving and implementing iterative algori
 - **Lab 3:** Fibonacci Series Using Loops – A program that generates a Fibonacci sequence for a specified number of terms using iterative logic.
 - **Lab 4:** Fibonacci Series Generator – A program to generate the Fibonacci sequence.
 
-### Unit 3 – Practical Python Application
+### Unit 3 – Python Programming Applications
 
-- **Attendance Management System:** A Python program designed to record and manage student attendance.
+This unit focuses on practical Python programming concepts, including contact management, attendance tracking, date and time operations, and data manipulation using comprehensions.
+
+- **Lab 1: Menu-Driven Contact Book Management System Using Python** – A menu-driven application that allows users to add, view, search, and delete contacts using lists and dictionaries.
+- **Lab 2: Attendance Management System** – A Python application designed to manage and record student attendance.
+- **Lab 3: Date and Time Operations Using Python** – A program demonstrating date and time manipulation using Python's `datetime` module, including date formatting and date calculations.
+- **Lab 4: Python Comprehensions and String Manipulation** – Programs demonstrating list, set, and dictionary comprehensions, conditional comprehensions, string slicing, concatenation, and frequency counting.
 
 ### Unit 4 – File Handling, CSV and JSON Operations
 
@@ -81,22 +86,18 @@ Python-Programs/
 │   ├── Lab 1 - Prime Number Checker.py
 │   ├── Lab 2 - Factorial Calculator.py
 │   ├── Lab 3 - Fibonacci Series Using Loops.py
-│   └── Lab 4 - Fibonacci Series 
-│
-├── UNIT 3 - Practical Applications/
-│   └── Lab 1 - Attendance Management System.py
+│   └── Lab 4 - Fibonacci Series
+|
+├── UNIT 3 - Python Programming Applications/
+│   ├── Lab 1 - Contact Book Management System.py
+│   ├── Lab 2 - Attendance Management System.py
+│   ├── Lab 3 - Date and Time Operations.py
+│   └── Lab 4 - Python Comprehensions and String Manipulation.py
 │
 ├── UNIT 4 - File Handling and Data Management/
 │   ├── Lab 1 - Log File Analyzer/
 │   │   ├── log_analyzer.py
-│       └── log.txt
-|
-├── UNIT 5 - File Handling and Data Storage/
-│   ├── Lab 1 - Log File Reader.py
-│   ├── Lab 2 - Student Data Manager Using Files.py
-│   ├── Lab 3 - CSV Based Payroll Management System.py
-│   └── Lab 4 - JSON Based Log File Analyzer.py
-│   │
+│   |   └── log.txt
 │   ├── Lab 2 - Student Data Manager/
 │   │   └── student_data_manager.py
 │   │
@@ -106,7 +107,14 @@ Python-Programs/
 │   └── Lab 4 - JSON Log Analyzer/
 │       ├── json_log_analyzer.py
 │       └── logs.json
-│
+|
+├── UNIT 5 - File Handling and Data Storage/
+│   ├── Lab 1 - Log File Reader.py
+│   ├── Lab 2 - Student Data Manager Using Files.py
+│   ├── Lab 3 - CSV Based Payroll Management System.py
+│   └── Lab 4 - JSON Based Log File Analyzer.py
+|
+|
 ├── Nested loop.py
 └── pyloops.py
 ```
